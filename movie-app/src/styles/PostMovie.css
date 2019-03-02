@@ -1,0 +1,28 @@
+.movie_frame{
+  margin: 60px;
+  background-color: white;
+  width: 40%;
+  display: inline-block;
+  box-shadow: 0 8px 38px rgba(133, 133, 133, 0.3), 0 5px 12px rgba(133, 133, 133,0.22);
+  padding: 15px;
+  position: relative;
+}
+
+.movie_poster{
+  width: 40%;
+  position: absolute;
+  top: -15%;
+}
+
+.movie_details{
+  margin-left: 220px;
+  width: 60%;
+}
+
+.movie_genres{
+
+}
+
+.movie_summary{
+  margin-top: 5px;
+}
